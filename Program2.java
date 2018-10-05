@@ -1,9 +1,4 @@
-//<Program2.java> -- Bar chart printing program
-//CSIS 212-B01
-//<Citations if necessary> -- citations are required
-//  for any references you used (outside of your book, 
-//  the website associated with your book, or references
-//  provided in class/Blackboard).
+
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -14,7 +9,7 @@ package assignment3;
 import java.util.Scanner;
 /**
  *
- * @author andrew
+
  */
 public class Program2 { 
      public static void main(String[] args) {
